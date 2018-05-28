@@ -1,3 +1,6 @@
+# Hosted at Heroku at
+https://young-beyond-65920.herokuapp.com/
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
